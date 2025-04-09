@@ -1,7 +1,7 @@
 {
   "name": "books",
   "version": "1.0.0",
-  "description": "Exam Prep app for Containers and Cloud course @ Softuni - January 2024",
+  "description": "Exam Prep app for Containers and Cloud course @ Softuni - February 2025",
   "main": "index.js",
   "scripts": {
     "start": "node ./bin/www"
